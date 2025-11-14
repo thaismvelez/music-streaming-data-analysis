@@ -49,7 +49,19 @@ Using the provided dataset, this project analyzed user activity and genre perfor
 
 Paid users are vital to Fresh Beats’ long-term revenue growth, making it essential to target Rock listeners in the free tier with special promotions to encourage conversion. At the same time, promoting emerging Indie artists through increased visibility and recommendation efforts will strengthen user retention and enhance overall platform engagement.
 
+## Recommendations for Improvement
 
+1. Focus promotional efforts on Indie artists, as the genre shows steady growth among paid users, and investigate the decline in Pop to adjust future content strategies.
+2. Encourage free users to upgrade through limited-time discounts, trials, or referral incentives, and consider adding intermediate subscription tiers to improve retention.
+3. Launch targeted promotions for Rock listeners in the free tier to increase conversions, while continuing to highlight Indie content to maintain engagement among paid users.
+
+## Future Directions
+
+- **Enhanced Recommendation Models:** Incorporate deeper trend analysis to better promote emerging Indie artists to the right audiences.
+- **Expanded Data Integration:** Add external data sources—such as social media engagement or artist popularity metrics—to strengthen insight accuracy.
+- **A/B Testing for User Conversion:** Test different promotional messages or offers to identify what most effectively converts free Rock listeners into paid users.
+
+By continuing to refine insights and expand data capabilities, Fresh Beats can deepen user engagement, improve artist visibility, and support long-term platform growth.
 
 
 
